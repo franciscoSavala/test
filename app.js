@@ -8,5 +8,7 @@ console.log("ESTO ES OTRA PRUEBA!");
 console.log("ESTO ES OTRA PRUEBA!");
 console.log("ESTO ES OTRA PRUEBA!");
 console.log("ESTO ES OTRA PRUEBA!");
+console.log("ESTO ES OTRA PRUEBA!");
+console.log("ESTO ES OTRA PRUEBA!");
 console.log("AGREGADO OTRA COSA");
 hola();
