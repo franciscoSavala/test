@@ -7,5 +7,4 @@ console.log("voy a probar algo de los branch");
 console.log("voy a probar algo de los branch");
 console.log("voy a probar algo de los branch");
 console.log("voy a probar algo de los branch");
-console.log("voy a probar algo de los branch");
 hola();
